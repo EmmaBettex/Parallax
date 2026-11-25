@@ -1,0 +1,6 @@
+{
+  "name": "Strate — Dessin par découpes et parallaxe",
+  "description": "Application de dessin numérique par couches avec création de trous, ombres de profondeur et effet de parallaxe interactif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
